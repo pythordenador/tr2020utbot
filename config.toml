@@ -1,6 +1,0 @@
-[bot_desc]
-bot_name = "My Bot Name"
-bot_desc = "Bot Description"
-
-[bot_secret]
-token="YourToken"
