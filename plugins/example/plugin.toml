@@ -1,0 +1,9 @@
+[description]
+name = "Example Plugin"
+id = "example_plugin"
+author = "elordenador"
+description = "Plugin Description"
+
+[advanced]
+version="1.0"
+versionID=1
