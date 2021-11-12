@@ -10,3 +10,4 @@ versionID=1
 
 [init]
 className="example"
+args="bot"

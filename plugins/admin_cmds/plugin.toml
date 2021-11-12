@@ -1,0 +1,13 @@
+[description]
+name = "Tr2020utbot's Admin Commands"
+id = "admin-cmds"
+author = "elordenador"
+description = "Adds Useful commands to the bot"
+
+[advanced]
+version="1.0"
+versionID=1
+
+[init]
+className="example"
+args="bot,pluginList"
